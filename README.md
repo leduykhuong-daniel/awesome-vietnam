@@ -21,6 +21,7 @@ Curated list of **engineering, robotics, AI/ML, system architecture** and **tech
 - [Viblo](https://viblo.asia) - Nền tảng chia sẻ bài viết kỹ thuật tiếng Việt (blog, tutorial, kinh nghiệm).
 - [TopDev](https://topdev.vn) - Cộng đồng và tin tức IT Việt Nam, tuyển dụng, bài viết công nghệ.
 - [VNDev](https://www.facebook.com/groups/vn.dev) - Nhóm Facebook cộng đồng developer Việt Nam.
+- [WeBuild Curated](https://github.com/webuild-community/curated) - Danh sách dự án open source do người Việt làm (curated list, PR để thêm dự án).
 
 ---
 
@@ -54,6 +55,10 @@ Curated list of **engineering, robotics, AI/ML, system architecture** and **tech
 
 ## Sách & Tài liệu
 
+- [Huyen Chip — Books](https://huyenchip.com/books/) - Trang sách của Huyen Chip (Chip Huyen): *Designing Machine Learning Systems* (O'Reilly), *AI Engineering* (O'Reilly); tác giả gốc Việt, sách có bản tiếng Việt (Nhã Nam).
+- [Thiết kế hệ thống học máy (bản tiếng Việt)](https://huyenchip.nhanam.vn/) - Bản dịch tiếng Việt cuốn "Designing Machine Learning Systems" (Nhã Nam).
+- [Designing ML Systems — repo](https://github.com/chiphuyen/dmls-book) - Tóm tắt và tài nguyên kèm sách "Designing Machine Learning Systems" (Chip Huyen).
+- [Machine Learning Systems Design (booklet)](https://github.com/chiphuyen/machine-learning-systems-design) - Booklet và bài tập thiết kế hệ thống ML (Chip Huyen).
 - [Sách dịch / open source tiếng Việt](https://github.com/topics/vietnamese) - GitHub topic: tài liệu, sách tiếng Việt (tìm repo dịch sách kỹ thuật).
 
 ---
