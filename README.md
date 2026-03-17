@@ -12,6 +12,7 @@ Curated list of **engineering, robotics, AI/ML, system architecture** and **tech
 - [Sách & Tài liệu](#sách--tài-liệu)
 - [Sự kiện & Meetup](#sự-kiện--meetup)
 - [Related](#related)
+- [Blog & OSS của người curate](#blog--oss-của-người-curate)
 
 ---
 
@@ -32,8 +33,10 @@ Curated list of **engineering, robotics, AI/ML, system architecture** and **tech
 
 ## AI & Machine Learning
 
-- [Vietnamese NLP](https://github.com/binhvq/news-corpus) - Tài nguyên corpus và NLP tiếng Việt (ví dụ news corpus).
-- [Awesome Vietnamese AI](https://github.com/topics/vietnamese-nlp) - GitHub topic: Vietnamese NLP và AI (tìm repo liên quan).
+- [Awesome Vietnamese NLP](https://github.com/vndee/awsome-vietnamese-nlp) - Bộ sưu tập tài nguyên NLP tiếng Việt (corpus, toolkit, model, sentiment).
+- [Awesome made by Vietnamese](https://github.com/lampts/awesome-made-by-vietnamese) - Dự án AI/ML do developer Việt Nam thực hiện và đóng góp.
+- [Underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit (Python): xử lý tiếng Việt, tokenize, NER, sentiment.
+- [Vietnamese NLP corpus](https://github.com/binhvq/news-corpus) - Tài nguyên corpus và NLP tiếng Việt (ví dụ news corpus).
 
 ---
 
@@ -65,7 +68,15 @@ Curated list of **engineering, robotics, AI/ML, system architecture** and **tech
 ## Related
 
 - [Awesome](https://github.com/sindresorhus/awesome) - Danh sách gốc các Awesome lists.
-- [Awesome Vietnam (other)](https://github.com/topics/awesome-vietnam) - Các list awesome Vietnam khác trên GitHub (topic).
+- [Awesome Vietnamese](https://github.com/virusvn/awesome-vietnamese) - Open source by Vietnamese people.
+- [Awesome Vietnam (topic)](https://github.com/topics/awesome-vietnam) - Các list awesome Vietnam khác trên GitHub.
+
+---
+
+## Blog & OSS của người curate
+
+- [leduykhuong.com](https://leduykhuong.com) - Blog cá nhân: kỹ thuật, AI/agentic, leadership, Vietnam Singularity (bilingual).
+- [awesome-vietnam](https://github.com/leduykhuong-daniel/awesome-vietnam) - Curated list engineering, AI/ML, robotics, system architecture, tech communities Vietnam (repo này).
 
 ---
 
