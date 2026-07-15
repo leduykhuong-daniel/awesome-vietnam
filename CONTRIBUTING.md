@@ -25,7 +25,7 @@ Cảm ơn bạn muốn đóng góp. List này chỉ gồm resource **chất lư�
 Dùng đúng format sau trong `README.md`:
 
 ```markdown
-- [Tên resource](URL) - Mô tả ngắn một câu, có giá trị với visitor.
+- [Tên resource](https://example.com) - Mô tả ngắn một câu, có giá trị với visitor.
 ```
 
 - **Tên:** rõ ràng, không quá dài.

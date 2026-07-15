@@ -13,4 +13,4 @@
 
 - [ ] Tôi đã đọc [CONTRIBUTING.md](https://github.com/leduykhuong-daniel/awesome-vietnam/blob/main/CONTRIBUTING.md).
 - [ ] Resource đáp ứng tiêu chí: liên quan Vietnam (tiếng Việt / người Việt / domain Vietnam), có giá trị, link còn hoạt động.
-- [ ] Đã dùng đúng format: `- [Tên](URL) - Mô tả.` và đặt đúng category trong README.
+- [ ] Đã dùng đúng format: `- [Tên](https://example.com) - Mô tả.` và đặt đúng category trong README.

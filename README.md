@@ -2,6 +2,10 @@
 
 Curated list of **engineering, robotics, AI/ML, system architecture** and **tech community** resources — in Vietnamese, by Vietnamese creators, or for Vietnam-focused communities. High-value only.
 
+## Đây là gì
+
+`awesome-vietnam` là danh sách tuyển chọn các tài nguyên công nghệ liên quan Việt Nam: cộng đồng, bài viết, dự án OSS, sách, sự kiện và nguồn học tập có giá trị cho kỹ sư phần mềm, AI/ML, robotics, embedded và kiến trúc hệ thống.
+
 ## Nội dung
 
 - [Nền tảng & Cộng đồng](#nền-tảng--cộng-đồng)
@@ -110,6 +114,10 @@ Curated list of **engineering, robotics, AI/ML, system architecture** and **tech
 
 Mời đóng góp theo [CONTRIBUTING.md](CONTRIBUTING.md). Một số mục tham khảo từ [awesome-vietnamese](https://github.com/virusvn/awesome-vietnamese), [awesome-vietnamese-nlp](https://github.com/vndee/awsome-vietnamese-nlp), [WeBuild curated](https://github.com/webuild-community/curated). Chỉ thêm resource **tiếng Việt / người Việt / domain Vietnam**, có giá trị và link còn hoạt động.
 
-## License
+## Giấy phép
 
-[MIT](LICENSE).
+Nội dung curation được phát hành theo [MIT](LICENSE) trong repo hiện tại. Nếu một tài nguyên bên ngoài có giấy phép riêng, giấy phép của tài nguyên đó vẫn do dự án gốc quyết định.
+
+## Tác giả
+
+**Lê Duy Khương (Daniel)** — [leduykhuong.com](https://leduykhuong.com) · [GitHub](https://github.com/leduykhuong-daniel)
