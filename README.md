@@ -27,6 +27,7 @@ Curated list of **engineering, robotics, AI/ML, system architecture** and **tech
 - [VNDev](https://www.facebook.com/groups/vn.dev) - Nhóm Facebook cộng đồng developer Việt Nam.
 - [WeBuild Curated](https://github.com/webuild-community/curated) - Danh sách dự án open source do người Việt làm (curated list, PR để thêm dự án).
 - [WeBuild Community](https://webuild.community/) - Nền tảng kết nối developer Việt Nam: chia sẻ kiến thức, học và build cùng nhau.
+- [buildtolaunch](https://buildtolaunch.org/) - Cộng đồng miễn phí cho sinh viên và builder trẻ ở Việt Nam và Đông Nam Á: học, làm sản phẩm và launch hàng tuần.
 - [GDG Vietnam](https://linkedin.com/company/google-developer-groups-vietnam-gdg-vietnam-) - Cộng đồng developers sử dụng công nghệ Google tại Việt Nam.
 - [Grokking](https://www.grokking.org/) - Playground cho software engineers trình cao tại Việt Nam.
 - [Vietnam Software Internship Project (VSIP)](https://netviet.kr/vsip) - Cộng đồng mentoring, rèn kỹ năng thực tế cho ngành phần mềm (hướng thị trường Hàn Quốc).
